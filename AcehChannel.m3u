@@ -1,4 +1,5 @@
-XTINF:-1,TR- beIN Sports 1 HD
+#EXTM3U
+#EXTINF:-1,TR- beIN Sports 1 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/702.ts
 #EXTINF:-1,TR- beIN Sports 3 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/704.ts
