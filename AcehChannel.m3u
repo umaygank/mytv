@@ -68,3 +68,7 @@ https://v6.siar.us/pujatv/live/chunks.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel%28TVRIACEH%29/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Aceh",TVRIAceh
 http://platinumxmedia.xyz:8080/@s1entertainment/FDV3t2hZsj/124038
+
+#EXTINF:0 tvg-id="ext" group-title="Radio" ,Megah FM
+http://live2.indostreamserver.com:8064/
+
