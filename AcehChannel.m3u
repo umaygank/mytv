@@ -57,3 +57,10 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/556.ts
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/242.ts
 #EXTINF:-1,OSN National Geographic Wild FHD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/243.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Aceh" ,PUJA TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aceh" ,TVRI ACEH
+http://118.97.50.107/Content/HLS/Live/Channel%28TVRIACEH%29/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aceh",TVRIAceh
+http://platinumxmedia.xyz:8080/@s1entertainment/FDV3t2hZsj/124038
