@@ -1,56 +1,58 @@
 #EXTM3U
-#EXTINF:-1,TR- beIN Sports 1 HD
+#EXTINF:-1 group-title="Sport" ,TR- beIN Sports 1 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/702.ts
-#EXTINF:-1,TR- beIN Sports 3 HD
+#EXTINF:-1 group-title="Sport" ,TR- beIN Sports 3 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/704.ts
-#EXTINF:-1,TR- beIN Sports 4 HD
+#EXTINF:-1 group-title="Sport" ,TR- beIN Sports 4 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/705.ts
-#EXTINF:-1,TR- beIN Sports Max 2 HD
+#EXTINF:-1 group-title="Sport" ,TR- beIN Sports Max 2 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/707.ts
-EXTINF:-1,BeIN SPORTS 1 Premium 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 1 Premium 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts
-#EXTINF:-1,BeIN SPORTS 2 Premium  4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 2 Premium  4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts
-#EXTINF:-1,BeIN SPORTS 3 Premium  4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 3 Premium  4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts
-#EXTINF:-1,BeIN SPORTS 1 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 1 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts
-#EXTINF:-1,BeIN SPORTS 2 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 2 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts
-#EXTINF:-1,BeIN SPORTS 3 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 3 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1131.ts
-#EXTINF:-1,BeIN SPORTS 4 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 4 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts
-#EXTINF:-1,BeIN SPORTS 5 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 5 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts
-#EXTINF:-1,BeIN SPORTS 6 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 6 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
-#EXTINF:-1,BeIN SPORTS 7 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 7 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
-#EXTINF:-1,BeIN SPORTS 1 EN 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 1 EN 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1136.ts
-#EXTINF:-1,BeIN SPORTS 2 EN 4K
+#EXTINF:-1 group-title="Sport" ,BeIN SPORTS 2 EN 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1137.ts
-#EXTINF:-1,BeIN SPORTS 3 EN 4K
+#EXTINF:0 tvg-id="ext" group-title="Sport" ,BeIN SPORTS 3 EN 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1138.ts
-#EXTINF:-1,beIN Sport EXTRA 1 4K
+#EXTINF:0 tvg-id="ext" group-title="Sport" ,beIN Sport EXTRA 1 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1142.ts
-#EXTINF:-1,beIN Sport EXTRA 2 4K
+#EXTINF:-1,group-title="Sport" ,beIN Sport EXTRA 2 4K
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/1143.ts
+#EXTINF:0 tvg-id="ext" group-title="Sport" ,SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
-#EXTINF:-1,Kid- Nick Jr HD
+#EXTINF:-1 group-title="Kids" ,Nick Jr HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/550.ts
-#EXTINF:-1,Kid- Nickelodeon HD
+#EXTINF:-1 group-title="Kids" ,Nickelodeon HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/551.ts
-#EXTINF:-1,Kid- NickToon HD
+#EXTINF:-1 group-title="Kids" ,NickToon HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/552.ts
-#EXTINF:-1,Kid- Rotana Kids HD
+#EXTINF:-1 group-title="Kids" ,Rotana Kids HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/553.ts
-#EXTINF:-1,Kid- SpaceToon
+#EXTINF:-1 group-title="Kids" ,SpaceToon
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/554.ts
-#EXTINF:-1,Kid- Taha TV
+#EXTINF:-1 group-title="Kids" ,Taha TV
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/555.ts
-#EXTINF:-1,Kid- Tom and Jerry 1
+#EXTINF:-1 group-title="Kids" ,Tom and Jerry 1
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/556.ts
 
 #EXTINF:-1,OSN National Geographic FHD
