@@ -79,4 +79,5 @@ https://a2.siar.us/listen/nikoyafm/live
 https://s7.alhastream.com/radio/8060/radio
 #EXTINF:-1 tvg-id="ext" group-title="Radio" ,Radio RRI pro 4 
 https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro4.mp3
-
+#EXTINF:-1 tvg-id="ext" group-title="Radio" ,Visionradio
+https://cloudstream.klikhost.net/radio/8020/radio.mp3
