@@ -64,6 +64,10 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/243.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Aceh" ,PUJA TV
 https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aceh" ,PUJATV
+http://34.101.216.117/pujatv/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aceh" ,TVRIaceh Cloud
+http://34.101.216.117/tvri-aceh/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Aceh" ,TVRI ACEH
 http://118.97.50.107/Content/HLS/Live/Channel%28TVRIACEH%29/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Aceh",TVRIAceh
