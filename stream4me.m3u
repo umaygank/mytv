@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  Trans TV HD
+http://202.150.165.68:9099/TransTV/video.m3u8
+#EXTINF:-1  Trans TV HD
+http://202.150.165.68:9099/Trans7/video.m3u8
